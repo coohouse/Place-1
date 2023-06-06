@@ -1,2 +1,2 @@
 # Place-1
-My first repository
+This is my first repository, I will use it to start my first project.
